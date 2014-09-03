@@ -9,6 +9,7 @@ How to use?
 ===========
 
 If you want to search a particular file in your home directory the just run the script in your home directory like
+
 ::
 
 [avinash@Avinash] ~ $ python app_cmdline.py
